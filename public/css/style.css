@@ -1,0 +1,23 @@
+.bg-black{
+    background-color: #000;
+}
+.w-20{
+ width: 20%;
+}
+.border-top{
+    border-top-color: #797979 !important;
+}
+.menu-tiktok{
+    position: absolute;
+    right: 10px;
+    top: 90px;
+
+}
+.img-profile{
+    display: grid;
+    justify-items: center;
+}
+.title-tiktok{
+    position: absolute;
+    bottom: 60px;
+}
